@@ -275,7 +275,7 @@ The dashboard allows users to interact with the data and explore different aspec
 ### Dashboard Preview
 
 ```markdown
-![Customer Shopping Behavior Dashboard](Dashboard.png)
+![Customer-shopping-behavior Dashboard](Dashboard.png)
 ```
 
 ---
