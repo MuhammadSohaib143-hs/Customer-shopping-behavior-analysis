@@ -274,10 +274,9 @@ The dashboard allows users to interact with the data and explore different aspec
 
 ### Dashboard Preview
 
-Add your Power BI screenshot here:
-
 ```markdown
-![Customer Shopping Behavior Dashboard](Dashboard.png)
+![Customer-shopping-behavior-analysis
+](Dashboard.png)
 ```
 
 ---
