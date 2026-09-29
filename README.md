@@ -258,6 +258,7 @@ The SQL analysis was transformed into an interactive Power BI dashboard.
 * **Total Customers:** 3.90K
 * **Average Purchase Amount:** $59.76
 * **Average Review Rating:** 3.75
+----
 
 ### Dashboard Analysis
 
@@ -272,6 +273,7 @@ The dashboard provides views of:
 
 The dashboard allows users to interact with the data and explore different aspects of customer behavior.
 
+----
 ### Dashboard Preview
 ![Customer-shopping-behavior](Dashboard.png)
 
