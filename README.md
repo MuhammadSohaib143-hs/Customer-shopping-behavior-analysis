@@ -320,26 +320,22 @@ Customer-Shopping-Behavior/
 │
 ├── customer_shopping_behavior.csv
 ├── customer-shopping-behaviour-analysis.ipynb
-├── customer_analysis.sql
+├── CustomerShoppingBehaviour.sql
 ├── customer_shopping_behavior.pbix
-├── customer_shopping_behavior.pdf
+├── Customer Shopping Behavior Analysis Reports.pdf
 └── README.md
 ```
 
 ### File Description
 
-| File                                         | Description                                                        |
-| -------------------------------------------- | ------------------------------------------------------------------ |
-| `customer_shopping_behavior.csv`             | Raw customer shopping dataset                                      |
-| `customer-shopping-behaviour-analysis.ipynb` | Python/Jupyter Notebook containing data cleaning and preprocessing |
-| `customer_analysis.sql`                      | SQL queries used for business analysis                             |
-| `customer_shopping_behavior.pbix`            | Power BI dashboard                                                 |
-| `customer_shopping_behavior.pdf`             | Gamma-generated project presentation                               |
-| `README.md`                                  | Project documentation                                              |
-
-> Update the filenames above if your actual GitHub filenames are different.
-
----
+| File                                                | Description                                                        |
+| ----------------------------------------------------| ------------------------------------------------------------------ |
+| `customer_shopping_behavior.csv`                    | Raw customer shopping dataset                                      |
+| `customer-shopping-behaviour-analysis.ipynb`        | Python/Jupyter Notebook containing data cleaning and preprocessing |
+| `CustomerShoppingBehaviour.sql`                     | SQL queries used for business analysis                             |
+| `customer_shopping_behavior.pbix`                   | Power BI dashboard                                                 |
+| `Customer Shopping Behavior Analysis Reports.pdf`   | Gamma-generated project presentation                               |
+| `README.md`                                         | Project documentation                                              |
 
 # 💡 Skills Demonstrated
 
