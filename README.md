@@ -273,13 +273,8 @@ The dashboard provides views of:
 The dashboard allows users to interact with the data and explore different aspects of customer behavior.
 
 ### Dashboard Preview
-
-```markdown
-
-```
-
----
 ![Customer-shopping-behavior](Dashboard.png)
+
 # 📊 Key Findings
 
 Based on the analysis:
