@@ -121,8 +121,6 @@ SQL was used to investigate customer behavior and answer practical business ques
 * Window functions
 * `ROW_NUMBER()`
 * `RANK()`
-* `LAG()`
-* `LEAD()`
 
 The analysis focused on revenue, customer behavior, product performance, discounts, subscriptions, and demographic patterns.
 
